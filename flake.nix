@@ -9,8 +9,8 @@
       # these lines are rewritten by the release workflow after each desktop release
       version = "3.0.0";
       hashes = {
-        x86_64-linux = "sha256-8Hie1eZH5JC+FfWEnzfkpk8latcuW6F0P+eynXhmVm0=";
-        aarch64-linux = "sha256-magq5PzQroixA8jor81Bk85K4+0ohXMI0LlXFToEsJ4=";
+        x86_64-linux = "sha256-VQ1SVn1xzsrPGvf5IAvx4Vt83DPIdL7AVNq0AjUUcQ0=";
+        aarch64-linux = "sha256-Z61DzFfg7Hp6ChVGbrCHCz4aPYQsfWB8DKsKTHh//Dc=";
       };
 
       appImages = {
